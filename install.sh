@@ -59,7 +59,6 @@ check_token() {
   echo -e "${BLUE}[+]               LICENSY RAFATHAR CODE            [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
     exit 1
-  fi
   clear
 }
 
