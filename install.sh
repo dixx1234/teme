@@ -482,9 +482,6 @@ echo -e "                                                                     "
       ;;
       8)
       ubahpw_vps
-      ;;
-    x)
-      echo "Keluar dari skrip."
       exit 0
       ;;
   esac
