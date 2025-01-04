@@ -58,17 +58,6 @@ check_token() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]               LICENSY RAFATHAR CODE            [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "                                                       "
-  echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
-  read -r USER_TOKEN
-
-  if [ "$USER_TOKEN" = "bagas" ]; then
-    echo -e "${GREEN}AKSES BERHASIL${NC}}"
-  else
-    echo -e "${GREEN}Token Salah! Beli Kode Token Di Bagazzmodz${NC}"
-    echo -e "${YELLOW}TELEGRAM : @BagazzModz${NC}"${NC}"
-    echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}© BagazzModz${NC}"
     exit 1
   fi
   clear
