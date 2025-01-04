@@ -487,7 +487,5 @@ echo -e "                                                                     "
       echo "Keluar dari skrip."
       exit 0
       ;;
-    *)
-      ;;
   esac
 done
