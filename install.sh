@@ -488,7 +488,6 @@ echo -e "                                                                     "
       exit 0
       ;;
     *)
-      echo "Pilihan tidak valid, silahkan coba lagi."
       ;;
   esac
 done
