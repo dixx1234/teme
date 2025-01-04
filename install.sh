@@ -53,14 +53,6 @@ install_jq() {
   clear
 }
 #Check user token
-check_token() {
-  echo -e "                                                       "
-  echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY RAFATHAR CODE            [+]${NC}"
-  echo -e "${BLUE}[+] =============================================== [+]${NC}"
-    exit 1
-  clear
-}
 
 # Install theme
 install_theme() {
